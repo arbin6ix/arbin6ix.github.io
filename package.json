@@ -1,0 +1,15 @@
+{
+  "name": "ICE2",
+  "version": "1.0.0",
+  "description": "repo for WEBD6201-W2022 ICE-2",
+  "main": "index.js",
+  "repository": "https://github.com/arbin6ix/ICE1.git",
+  "author": "Arbin_Chowdhury <arbinchowdhury@hotmail.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@popperjs/core": "^2.11.2",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
